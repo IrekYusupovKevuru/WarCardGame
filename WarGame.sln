@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WarGame", "WarGame\WarGame.vcxproj", "{B3BF2DA7-5A41-4B6D-A709-E5E6ECD4D24F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3BF2DA7-5A41-4B6D-A709-E5E6ECD4D24F}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B3BF2DA7-5A41-4B6D-A709-E5E6ECD4D24F}.Debug|Any CPU.Build.0 = Debug|Win32
+		{B3BF2DA7-5A41-4B6D-A709-E5E6ECD4D24F}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B3BF2DA7-5A41-4B6D-A709-E5E6ECD4D24F}.Release|Any CPU.Build.0 = Release|Win32
+	EndGlobalSection
+EndGlobal
